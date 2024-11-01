@@ -1,3 +1,5 @@
+cd ..
+cd Desktop/
 mkdir IT21Z_Laur
 cd IT21Z_Laur
 mkdir Pinzaru_Laurentiu
